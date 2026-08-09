@@ -1,4 +1,4 @@
-import pygame, sys, time, random
+import pygame, sys, random
 
 speed = 10
 
